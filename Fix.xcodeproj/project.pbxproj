@@ -211,7 +211,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A291939F1ACB6FB9002732FD /* Build configuration list for PBXProject "MakeMapsTemplate" */;
+			buildConfigurationList = A291939F1ACB6FB9002732FD /* Build configuration list for PBXProject "Fix" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -420,7 +420,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = Fix/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Fix;
 				SWIFT_OBJC_BRIDGING_HEADER = "Fix/Fix-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -434,7 +434,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = Fix/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Fix;
 				SWIFT_OBJC_BRIDGING_HEADER = "Fix/Fix-Bridging-Header.h";
 			};
 			name = Release;
@@ -453,7 +453,7 @@
 				);
 				INFOPLIST_FILE = FixTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FixTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fix.app/Fix";
 			};
 			name = Debug;
@@ -468,7 +468,7 @@
 				);
 				INFOPLIST_FILE = FixTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FixTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fix.app/Fix";
 			};
 			name = Release;
@@ -476,7 +476,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A291939F1ACB6FB9002732FD /* Build configuration list for PBXProject "MakeMapsTemplate" */ = {
+		A291939F1ACB6FB9002732FD /* Build configuration list for PBXProject "Fix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A29193C11ACB6FBA002732FD /* Debug */,
