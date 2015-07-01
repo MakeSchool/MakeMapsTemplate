@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         
-        Foursquare2.setupFoursquareWithClientId("Z5VHHCGCOEZABPWIZ5C0YHKOUOBRU4RGT3XA50PXRF0OFCJR", secret:"2TU3RFC0ZXYAC2GISP4YIMHAWYTOLU1CH4U1HE1TKJOYMI4K", callbackURL:"https://here123://foursquare");
+        Foursquare2.setupFoursquareWithClientId("1212", secret:"1212", callbackURL:"https://here123://foursquare");
         
         
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
